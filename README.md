@@ -1,4 +1,4 @@
-# Necessary and Sufficient Forest (NS-Forest) for Cell Type Marker Determination from cell type clusters
+# NS-Forest: A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing
 
 ## Getting Started
 
